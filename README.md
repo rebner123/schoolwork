@@ -1,3 +1,3 @@
 # schoolwork
 
-This is all about school work
+This is all about schoolwork
